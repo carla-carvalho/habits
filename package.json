@@ -1,0 +1,19 @@
+{
+  "name": "habits",
+  "version": "1.0.0",
+  "description": "Projeto de um site de hábitos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carla-carvalho/habits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carla-carvalho/habits/issues"
+  },
+  "homepage": "https://github.com/carla-carvalho/habits#readme"
+}
